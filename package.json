@@ -1,0 +1,64 @@
+{
+  "name": "replace-case",
+  "description": "Like String.prototype.replace() but attempts to match the casing of the substring being replaced.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/replace-case",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/replace-case",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/replace-case/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^6.1.4"
+  },
+  "keywords": [
+    "case",
+    "camelcase",
+    "lowercase",
+    "snakecase",
+    "uppercase",
+    "snake",
+    "camel",
+    "title",
+    "titlecase",
+    "case-sensitive",
+    "match",
+    "matches",
+    "exec",
+    "occurrence",
+    "occurrences",
+    "pattern",
+    "patterns",
+    "regex",
+    "regular expression",
+    "replace",
+    "replace-case",
+    "replacement",
+    "string",
+    "substring"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "dependencies": {
+    "detect-case": "^1.0.0"
+  }
+}
