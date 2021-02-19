@@ -1,4 +1,4 @@
-# replace-case
+# replace-case [![Tests](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml/badge.svg)](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml)
 
 > Like String.prototype.replace() but attempts to match the casing of the substring being replaced.
 
@@ -96,6 +96,8 @@ Results in the following:
 <summary><strong>Contributing</strong></summary>
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).
+
+Please read the [contributing guide](.github/contributing.md) for advice on opening issues, pull requests, and coding standards.
 
 </details>
 
