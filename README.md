@@ -1,4 +1,4 @@
-# replace-case [![Tests](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml/badge.svg)](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml)
+# replace-case [![NPM monthly downloads](https://img.shields.io/npm/dm/replace-case.svg?style=flat)](https://npmjs.org/package/replace-case) [![NPM total downloads](https://img.shields.io/npm/dt/replace-case.svg?style=flat)](https://npmjs.org/package/replace-case) [![Tests](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml/badge.svg)](https://github.com/jonschlinkert/replace-case/actions/workflows/test.yml)
 
 > Like String.prototype.replace() but attempts to match the casing of the substring being replaced.
 
