@@ -1,7 +1,7 @@
 {
   "name": "replace-case",
   "description": "Like String.prototype.replace() but attempts to match the casing of the substring being replaced.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/replace-case",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/replace-case",
@@ -9,7 +9,8 @@
     "url": "https://github.com/jonschlinkert/replace-case/issues"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "utils.js"
   ],
   "license": "MIT",
   "scripts": {
